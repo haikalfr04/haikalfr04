@@ -10,7 +10,10 @@ Statistics graduate from **Universitas Indonesia**, working toward becoming a **
   <a href="https://www.linkedin.com/in/haikalfr/"><img src="https://img.shields.io/badge/in%2Fhaikalfr-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" height="34"></a>
   <a href="https://www.instagram.com/ig_haikalfr/"><img src="https://img.shields.io/badge/@ig__haikalfr-E4405F?logo=instagram&logoColor=white" alt="Instagram" height="34"></a>
   <a href="https://github.com/haikalfr04"><img src="https://img.shields.io/badge/haikalfr04-181717?logo=github&logoColor=white" alt="GitHub" height="34"></a>
-  <a href="https://haikalfr04.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-4285F4?logo=googlechrome&logoColor=white" alt="Portfolio" height="34"></a>
+</p>
+
+<p>
+  <a href="https://haikalfr04.github.io/portfolio/"><img src="https://img.shields.io/badge/%E2%86%92_View_my_portfolio-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View my portfolio" height="52"></a>
 </p>
 
 <br clear="left">
